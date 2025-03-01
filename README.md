@@ -1,4 +1,4 @@
-Ejemplo del código HTML de una nota de Nota de Notion convertida en tarjeta de Anki:
+Ejemplo del código HTML de una nota de Notion convertida en tarjeta de Anki:
 ```html
 <p>Establece que: Si $a,b \in \mathbb{R}$; entonces al compararlos se puede presentar solo uno de los siguientes casos:<br>
     [latex]\begin{math}<br>
