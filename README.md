@@ -9,7 +9,7 @@ Debido a que Anki no logra rendirizar la nota de Notion ya que no es la forma en
 
 ¡De esta forma tus notas de Notion estarán listas para ser estudiadas!.
 
-¡Es el verdadero "plug and play".
+¡Es el verdadero "plug and play"!.
 
 ### A tener en cuenta
 Por alguna razón existen notas de notion que al ser exportadas y convertidas en `.apkg` no tienen el código completo de LaTeX, ejemplos:
