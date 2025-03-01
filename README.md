@@ -1,4 +1,5 @@
 Imagen de una nota de Notion convertida en una tarjeta de Anki:
+![2025-03-01_15:21:15](https://github.com/user-attachments/assets/7c6760f8-d72f-4796-86a8-3086f8b1fbe2)
 
 
 Código HTML de una nota de Notion convertida en tarjeta de Anki:
