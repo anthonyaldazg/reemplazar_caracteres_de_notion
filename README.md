@@ -45,6 +45,7 @@ Debido a que Anki no logra renderizar la nota de Notion ya que no es la forma en
 
 ¡Es el verdadero "plug and play"!.
 
+[![Ver demo](https://img.youtube.com/vi/)](https://youtu.be/OhBfxBoz76M)
 
 ### A tener en cuenta
 Por alguna razón existen notas de Notion que al ser exportadas y convertidas en `.apkg` no tienen el código completo de LaTeX, ejemplos:
