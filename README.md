@@ -4,12 +4,16 @@ Ejemplo del código HTML de una nota de Notion convertida en tarjeta de Anki:
     [latex]\begin{math}<br>
     a&gt;b \ a</p>
 ```
+Imagen de la tarjeta en Anki:
 
 Debido a que Anki no logra rendirizar la nota de Notion ya que no es la forma en que Anki usa LaTeX (HTML) he creado este complemento que reemplaza automáticamente caracteres de notas de Notion que han sido exportadas y convertidas en un archivo `.apkg`. 
 
 ¡De esta forma tus notas de Notion estarán listas para ser estudiadas!.
 
 ¡Es el verdadero "plug and play"!.
+
+Imagen de la tarjeta en Anki después de usar este complemento:
+
 
 ### A tener en cuenta
 Por alguna razón existen notas de notion que al ser exportadas y convertidas en `.apkg` no tienen el código completo de LaTeX, ejemplos:
