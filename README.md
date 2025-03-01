@@ -1,18 +1,26 @@
-Ejemplo del código HTML de una nota de Notion convertida en tarjeta de Anki:
+Imagen de una nota de Notion convertida en una tarjeta de Anki:
+
+
+Código HTML de una nota de Notion convertida en tarjeta de Anki:
 ```html
 <p>Establece que: Si $a,b \in \mathbb{R}$; entonces al compararlos se puede presentar solo uno de los siguientes casos:<br>
     [latex]\begin{math}<br>
     a&gt;b \ a</p>
 ```
-Imagen de la tarjeta en Anki:
+
+Imagen de una nota de Notion convertida en una tarjeta de Anki después de usar este complemento:
+
+
+Código HTML de una nota de Notion convertida en tarjeta de Anki después de usar este complemento:
+```html
+
+```
 
 Debido a que Anki no logra rendirizar la nota de Notion ya que no es la forma en que Anki usa LaTeX (HTML) he creado este complemento que reemplaza automáticamente caracteres de notas de Notion que han sido exportadas y convertidas en un archivo `.apkg`. 
 
 ¡De esta forma tus notas de Notion estarán listas para ser estudiadas!.
 
 ¡Es el verdadero "plug and play"!.
-
-Imagen de la tarjeta en Anki después de usar este complemento:
 
 
 ### A tener en cuenta
