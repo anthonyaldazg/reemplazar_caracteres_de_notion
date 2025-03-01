@@ -32,4 +32,4 @@ Por alguna razón existen notas de notion que al ser exportadas y convertidas en
     a&gt;b \ a</p>
 ```
 
-Debido a esto no se me ocurre una expresión regular que elimine la etiqueta `<br>` sin eliminar el resto de `<br>` que si queremos en el código HTML de la tarjeta de Anki.
+Debido a esto no se me ocurre una expresión regular que elimine la etiqueta `<br>` sin eliminar el resto de etiquetas `<br>` que si queremos en el código HTML de la tarjeta de Anki.
